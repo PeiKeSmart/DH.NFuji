@@ -23,9 +23,9 @@
     <Authors>$(Company)</Authors>
     <PackageProjectUrl>https://www.haocoding.com/</PackageProjectUrl>
     <PackageIcon>DH.png</PackageIcon>
-    <RepositoryUrl>https://github.com/NewLifeX/NewLife.Fuji</RepositoryUrl>
+    <RepositoryUrl>https://github.com/PeiKeSmart/DH.NFuji</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
-    <PackageTags>物联网;IoT;边缘计算;Edge;新生命团队;NewLife;PLC;$(AssemblyName)</PackageTags>
+    <PackageTags>物联网;IoT;边缘计算;Edge;湖北登灏科技有限公司;DH组件;DH;PLC;$(AssemblyName)</PackageTags>
     <PackageReleaseNotes></PackageReleaseNotes>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
